@@ -1,0 +1,8 @@
+/target/
+**/.settings
+**/report
+**/.classpath
+**/.project
+/bin/
+**/FailedTestsScreenshots
+**/test-output
